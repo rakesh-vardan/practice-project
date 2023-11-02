@@ -4,6 +4,8 @@ public class Operators {
 
     public static void main(String[] args) {
 
+        //Operators are symbols that perform operations on variables and values
+
         /**
          * Arithmetic Operators:
          * 1. addition (+)
