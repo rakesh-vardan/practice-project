@@ -1,4 +1,4 @@
-package com.learn.collections;
+package com.learn.collections.list;
 
 import java.util.Iterator;
 import java.util.LinkedList;

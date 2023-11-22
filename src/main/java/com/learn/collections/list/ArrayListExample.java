@@ -1,4 +1,4 @@
-package com.learn.collections;
+package com.learn.collections.list;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -22,7 +22,6 @@ public class ArrayListExample {
         while(iterator.hasNext()) {
             System.out.println(iterator.next());
         }
-
         //another way
         for(String fruit : list) {
             System.out.println(fruit);
